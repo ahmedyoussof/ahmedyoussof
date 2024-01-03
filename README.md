@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <b>@ahmedyoussof</b>
 - 👀 I’m interested in <b>Software Engineering</b>
-- 🌱 I’m currently learning <b>React</b>
+- 🌱 I’m currently learning <b>Advanced backend topics</b>
 - 📫 How to reach me <b><a href="https://www.linkedin.com/in/ahmed-zaki-a4583311b/">Linkedin</a></b>
 
 <!---
